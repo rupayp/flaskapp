@@ -167,3 +167,5 @@ api.add_resource(TaskListAPI, '/api/v1.0/tasks', endpoint='tasks')
 api.add_resource(TaskAPI, '/api/v1.0/tasks/<int:id>', endpoint='task')
 api.add_resource(PreditAPI, '/api/v1.0/predict', endpoint='predict')
 
+if __name__ == "__main__":
+    app.run()
