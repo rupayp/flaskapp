@@ -1,0 +1,6 @@
+mkl-fft==1.0.6
+mkl-random==1.0.1.1
+mkl-service==2.3.0
+pywin32==227
+pywin32-ctypes==0.2.0
+pywinpty==0.5.7
