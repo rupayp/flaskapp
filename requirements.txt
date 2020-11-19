@@ -3,3 +3,10 @@ Flask_RESTful == 0.3.8
 Flask_Cors == 3.0.9
 Flask_HTTPAuth == 4.2.0
 Werkzeug == 1.0.1
+
+
+matplotlib == 3.2.2
+nltk == 3.5
+numpy == 1.18.5
+pandas == 1.0.5
+scikit_learn == 0.23.1
